@@ -28,8 +28,7 @@
 
 ## Пример работы
 
-
-![](https://github.com/islamhadjime/google_sheets-WEB/blob/main/gif/gif.gif)
+![](https://github.com/islamhadjime/node-back-api/blob/main/MEDIA/Peek%202023-05-16%2001-36.gif)
 
 
 
