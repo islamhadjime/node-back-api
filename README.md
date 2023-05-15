@@ -7,7 +7,7 @@
 делать записи лю%бые авторизова%нные пользов%атели.
 ##
 
-![Alt-текст](https://github.com/islamhadjime/google_sheets-WEB/blob/main/gif/SC.jpg "Node Api")
+![Alt-текст](https://github.com/islamhadjime/solar_power_plant/blob/main/assets/img/BLOCK.jpg "Solar power plant")
 
 ## Api
 
